@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    color:red;
-=======
-    color:#33f;
->>>>>>> cabezera
+    color:#333;
     text-align: left;
     font-family: "Arial";
 }
@@ -20,8 +16,4 @@ body {
     color:white;
     margin:0;
     padding: 0.5em;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cabezera
